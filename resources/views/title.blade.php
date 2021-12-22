@@ -1,0 +1,1 @@
+<title>AdEasy Technical Assessment</title>
